@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml:16:1-35:12
+INJECTED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml:16:1-35:12
+INJECTED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml:16:1-35:12
+INJECTED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml:16:1-35:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6ab651fdabf75b247ca7cec172e22d9b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/5ec9bcd6c1c4c0647a7ec110fd6bfc1e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/fa93182807458376cb8e4693eb0ec13d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7c6ac209806328ee3c7e8ad8c4857236/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/92c740063b88a54a19cf7f3729bd5f9c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/c276ade16d9e5cb8401870272ec34b82/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/39349cd8c3921c778fabc62d9030c2f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/090cc8266ed832985aac8d8f4c7f7204/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e3eeb22f5c9b02edda98d07d010c0ccb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/531482a073b42f4824ecf4f1cccf57bd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e1b342921508f1690ee68eb163aa9ad0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/97aac7bc116717eeea0ac16b70944d4c/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml:16:1-35:12
+INJECTED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml:16:1-35:12
+INJECTED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml:16:1-35:12
+	package
+		ADDED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml:17:5-53
+		INJECTED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml
+		ADDED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml:16:1-35:12
+		INJECTED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml
+		ADDED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml:16:1-35:12
+		INJECTED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml:16:11-69
+application
+ADDED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml:19:5-33:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/5ec9bcd6c1c4c0647a7ec110fd6bfc1e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/5ec9bcd6c1c4c0647a7ec110fd6bfc1e/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml:22:9-41
+	android:roundIcon
+		ADDED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml:23:9-54
+	android:icon
+		ADDED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.android.fundamentals.powerreceiver.MainActivity
+ADDED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml:26:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml
+INJECTED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6ab651fdabf75b247ca7cec172e22d9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6ab651fdabf75b247ca7cec172e22d9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/5ec9bcd6c1c4c0647a7ec110fd6bfc1e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/5ec9bcd6c1c4c0647a7ec110fd6bfc1e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/fa93182807458376cb8e4693eb0ec13d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/fa93182807458376cb8e4693eb0ec13d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7c6ac209806328ee3c7e8ad8c4857236/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7c6ac209806328ee3c7e8ad8c4857236/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/92c740063b88a54a19cf7f3729bd5f9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/92c740063b88a54a19cf7f3729bd5f9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/c276ade16d9e5cb8401870272ec34b82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/c276ade16d9e5cb8401870272ec34b82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/39349cd8c3921c778fabc62d9030c2f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/39349cd8c3921c778fabc62d9030c2f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/090cc8266ed832985aac8d8f4c7f7204/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/090cc8266ed832985aac8d8f4c7f7204/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e3eeb22f5c9b02edda98d07d010c0ccb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e3eeb22f5c9b02edda98d07d010c0ccb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/531482a073b42f4824ecf4f1cccf57bd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/531482a073b42f4824ecf4f1cccf57bd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e1b342921508f1690ee68eb163aa9ad0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e1b342921508f1690ee68eb163aa9ad0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/97aac7bc116717eeea0ac16b70944d4c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/a.j.montgomery/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/97aac7bc116717eeea0ac16b70944d4c/AndroidManifest.xml:20:5-44
+INJECTED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml
+INJECTED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml
+		ADDED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml
+		ADDED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/src/main/AndroidManifest.xml

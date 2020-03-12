@@ -1,0 +1,4 @@
+#Tue Mar 10 10:50:21 EDT 2020
+base.0=/Users/a.j.montgomery/AndroidStudioProjects/PowerReceiver/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
